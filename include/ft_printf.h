@@ -17,7 +17,6 @@
 # define HEX_LOW_BASE "0123456789abcdef"
 
 # include <stdarg.h>
-# include <stdio.h>
 # include <stdlib.h>
 # include <unistd.h>
 
